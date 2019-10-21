@@ -1,0 +1,10 @@
+Team 1
+Team 2
+Venue
+Who batted first
+First innings score
+First innings wickets
+Second innings score
+Second innings wickets
+Who won
+Margin
